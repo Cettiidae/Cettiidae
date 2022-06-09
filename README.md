@@ -14,7 +14,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cettiidae&theme=radical)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cettiidae&show_icons=true&theme=radical)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cettiidae&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cettiidae&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cettiidae&theme=radical&utcOffset=8)  
+![](https://stats.justsong.cn/api/bilibili/?id=1920082&theme=dark)  
 <!--
 **Cettiidae/Cettiidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
