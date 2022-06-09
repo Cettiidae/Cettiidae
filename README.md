@@ -9,8 +9,9 @@
 - :video_game: [FFXIV](https://ff.web.sdo.com/web8/index.html#/index) 4.0入坑玩家，人在`海猫茶屋`欢迎勾搭。我还有个业主群：1074761017
 - :bulb: 我用我的博客以及推特分享我的灵感：[Blog](https://cettiidae.com/) & [Twitter](https://twitter.com/Cettlldae)
 - :mailbox: 您可以使用邮件联系我： <a href="mailto:hi@cettiidae.com?subject=来自Github">Email</a>
---- 
-
+---  
+![](https://raw.githubusercontent.com/Cettiidae/Cettiidae/main/assets/github-contribution-grid-snake.svg)
+---  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cettiidae&theme=radical)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cettiidae&show_icons=true&theme=radical)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cettiidae&theme=radical)
