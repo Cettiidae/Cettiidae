@@ -7,7 +7,11 @@
 - :bulb: 我用我的博客以及推特分享我的灵感：[Blog](https://cettiidae.com/) & [Twitter](https://twitter.com/Cettlldae)
 - :mailbox: 您可以使用邮件联系我： <a href="mailto:hi@cettiidae.com?subject=来自Github">Email</a>，或 <a href="https://social.cettiidae.com/@admin" rel="me">Follow me on Mastodon!</a>
 ---  
-![](https://raw.githubusercontent.com/Cettiidae/Cettiidae/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cettiidae/Cettiidae/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="(https://raw.githubusercontent.com/Cettiidae/Cettiidae/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ---  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cettiidae&theme=radical)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cettiidae&show_icons=true&theme=radical)  
