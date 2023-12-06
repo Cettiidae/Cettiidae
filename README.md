@@ -12,6 +12,7 @@
   <source media="(prefers-color-scheme: light)" srcset="(https://raw.githubusercontent.com/Cettiidae/Cettiidae/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
 ---  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cettiidae&theme=radical)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cettiidae&show_icons=true&theme=radical)  
